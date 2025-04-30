@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Highly proficient in JavaScript and currently deepening my knowledge of React.<br>🧮 Advanced knowledge of Python and object-oriented programming<br>📚 Strong knowledge of HTML and CSS; experienced in building responsive web layouts<br>🎯 Able to approach technical challenges with creative, solution-oriented thinking
+💻 Highly proficient in JavaScript and currently deepening my knowledge of React.<br>🧮 Advanced knowledge of Python and object-oriented programming.<br>📚 Strong knowledge of HTML and CSS; experienced in building responsive web layouts.<br>🎯 Able to approach technical challenges with creative, solution-oriented thinking.<br>🏅 Enjoy staying active and engaged through sports, both as a player and a fan.
 
 
 ## 🌐 Socials:
